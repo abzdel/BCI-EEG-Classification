@@ -4,3 +4,4 @@ seaborn
 scipy
 pylint
 black
+black[jupyter]

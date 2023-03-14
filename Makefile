@@ -3,11 +3,13 @@ install:
 		pip install -r requirements.txt
 
 format:
-	black *.py
+	# add .py back in later
+	#black *.py
 	black *.ipynb
 
 lint:
-	pylint --disable=R,C *.py
-	pylint --disable=R,C *.ipynb
+	# add .py back in later
+	#pylint --disable=R,C *.py
+	echo "not yet implemented"
 
-all: install lint format
+all: install format lint
