@@ -5,3 +5,4 @@ scipy
 pylint
 black
 black[jupyter]
+sklearn
