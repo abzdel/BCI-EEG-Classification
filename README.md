@@ -33,10 +33,10 @@ The decision tree and KNN models had moderately worse results but took less time
 
 # Authors
 
-- Alex Bzdel
-  - [LinkedIn](https://www.linkedin.com/in/alexbzdel/)
-  - [GitHub](https://github.com/abzdel)
+Alex Bzdel
+- [LinkedIn](https://www.linkedin.com/in/alexbzdel/)
+- [GitHub](https://github.com/abzdel)
  
-- Amanda Breton
-  - [LinkedIn](https://www.linkedin.com/in/amandabreton/)
-  - GitHub(https://github.com/anbreton)
+Amanda Breton
+- [LinkedIn](https://www.linkedin.com/in/amandabreton/)
+- [GitHub](https://github.com/anbreton)
